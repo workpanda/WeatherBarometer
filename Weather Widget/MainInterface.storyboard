@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9059" systemVersion="15A284" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="M4Y-Lb-cyx">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9049"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="weathericons-regular-webfont.ttf">
+            <string>WeatherIcons-Regular</string>
+            <string>WeatherIcons-Regular</string>
+            <string>WeatherIcons-Regular</string>
+            <string>WeatherIcons-Regular</string>
+            <string>WeatherIcons-Regular</string>
+            <string>WeatherIcons-Regular</string>
+            <string>WeatherIcons-Regular</string>
+        </mutableArray>
+    </customFonts>
+    <scenes>
+        <!--Today View Controller-->
+        <scene sceneID="cwh-vc-ff4">
+            <objects>
+                <viewController id="M4Y-Lb-cyx" customClass="TodayViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Ft6-oW-KC0"/>
+                        <viewControllerLayoutGuide type="bottom" id="FKl-LY-JtV"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" simulatedAppContext="notificationCenter" id="S3S-Oj-5AN">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="80"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="uFv-ct-x1o">
+                                <rect key="frame" x="16" y="0.0" width="232" height="80"/>
+                                <animations/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="i7J-VC-3Ib">
+                                <rect key="frame" x="96" y="8" width="21" height="21"/>
+                                <animations/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="21" id="Bu2-RL-A0R"/>
+                                    <constraint firstAttribute="height" constant="21" id="I3k-ed-HjI"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="WeatherIcons-Regular" family="Weather Icons" pointSize="36"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="1013,4 hpA" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oae-Gf-G9u">
+                                <rect key="frame" x="96" y="27" width="88" height="25"/>
+                                <animations/>
+                                <fontDescription key="fontDescription" name="WeatherIcons-Regular" family="Weather Icons" pointSize="17"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Mostly Cloudy" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="m6r-xM-Wh2">
+                                <rect key="frame" x="96" y="51" width="89" height="21"/>
+                                <animations/>
+                                <fontDescription key="fontDescription" name="WeatherIcons-Regular" family="Weather Icons" pointSize="14"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Rising Rapidly" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0NI-mA-akh">
+                                <rect key="frame" x="119" y="8" width="78" height="18"/>
+                                <animations/>
+                                <fontDescription key="fontDescription" name="WeatherIcons-Regular" family="Weather Icons" pointSize="12"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="X4S-dp-v3f">
+                                <rect key="frame" x="226" y="8" width="25" height="25"/>
+                                <animations/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="25" id="Et4-Ga-VKi"/>
+                                    <constraint firstAttribute="height" constant="25" id="Phk-bj-EM0"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="WeatherIcons-Regular" family="Weather Icons" pointSize="30"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="12 °C" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QWd-lC-xDt">
+                                <rect key="frame" x="251" y="8" width="44" height="25"/>
+                                <animations/>
+                                <fontDescription key="fontDescription" name="WeatherIcons-Regular" family="Weather Icons" pointSize="17"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="10 %" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dQb-y0-NNr">
+                                <rect key="frame" x="251" y="47" width="40" height="25"/>
+                                <animations/>
+                                <fontDescription key="fontDescription" name="WeatherIcons-Regular" family="Weather Icons" pointSize="17"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="sunny" translatesAutoresizingMaskIntoConstraints="NO" id="jEp-lw-awY">
+                                <rect key="frame" x="24" y="8" width="64" height="64"/>
+                                <animations/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="64" id="Pik-Bw-VPQ"/>
+                                    <constraint firstAttribute="height" constant="64" id="cKa-Qy-hFR"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="humidity_widget" translatesAutoresizingMaskIntoConstraints="NO" id="6aE-DF-7My">
+                                <rect key="frame" x="228" y="50" width="20" height="20"/>
+                                <animations/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="Hjm-Z7-Vap"/>
+                                    <constraint firstAttribute="width" constant="20" id="ImS-tS-sp2"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <animations/>
+                        <constraints>
+                            <constraint firstItem="uFv-ct-x1o" firstAttribute="top" secondItem="Ft6-oW-KC0" secondAttribute="bottom" id="1lR-fo-f8o"/>
+                            <constraint firstItem="i7J-VC-3Ib" firstAttribute="leading" secondItem="oae-Gf-G9u" secondAttribute="leading" id="50b-aA-MRT"/>
+                            <constraint firstItem="jEp-lw-awY" firstAttribute="top" secondItem="i7J-VC-3Ib" secondAttribute="top" id="51I-jB-YNw"/>
+                            <constraint firstItem="QWd-lC-xDt" firstAttribute="leading" secondItem="uFv-ct-x1o" secondAttribute="trailing" constant="3" id="89o-Ie-p8A"/>
+                            <constraint firstAttribute="centerY" secondItem="jEp-lw-awY" secondAttribute="centerY" id="BgY-Mb-K2y"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="QWd-lC-xDt" secondAttribute="trailing" constant="9" id="IUF-qQ-ech"/>
+                            <constraint firstItem="dQb-y0-NNr" firstAttribute="trailing" secondItem="QWd-lC-xDt" secondAttribute="trailing" constant="-4" id="JgQ-km-voi"/>
+                            <constraint firstItem="i7J-VC-3Ib" firstAttribute="leading" secondItem="jEp-lw-awY" secondAttribute="trailing" constant="8" id="Lkt-My-wIV"/>
+                            <constraint firstItem="jEp-lw-awY" firstAttribute="top" secondItem="QWd-lC-xDt" secondAttribute="top" id="OMo-rf-2gN"/>
+                            <constraint firstItem="6aE-DF-7My" firstAttribute="centerY" secondItem="dQb-y0-NNr" secondAttribute="centerY" constant="0.5" id="PYg-mg-Xa1"/>
+                            <constraint firstItem="i7J-VC-3Ib" firstAttribute="leading" secondItem="m6r-xM-Wh2" secondAttribute="leading" id="R0y-s0-QlL"/>
+                            <constraint firstItem="X4S-dp-v3f" firstAttribute="centerY" secondItem="QWd-lC-xDt" secondAttribute="centerY" id="UNO-mw-jrM"/>
+                            <constraint firstItem="dQb-y0-NNr" firstAttribute="leading" secondItem="6aE-DF-7My" secondAttribute="trailing" constant="3" id="UsK-TH-lWi"/>
+                            <constraint firstItem="jEp-lw-awY" firstAttribute="leading" secondItem="S3S-Oj-5AN" secondAttribute="leadingMargin" constant="8" id="ZRD-w9-36T"/>
+                            <constraint firstItem="uFv-ct-x1o" firstAttribute="leading" secondItem="S3S-Oj-5AN" secondAttribute="leadingMargin" id="bW2-75-L9B"/>
+                            <constraint firstItem="QWd-lC-xDt" firstAttribute="leading" secondItem="X4S-dp-v3f" secondAttribute="trailing" id="dIF-Jb-s7i"/>
+                            <constraint firstItem="jEp-lw-awY" firstAttribute="centerY" secondItem="oae-Gf-G9u" secondAttribute="centerY" id="p4G-IL-PuS"/>
+                            <constraint firstItem="FKl-LY-JtV" firstAttribute="top" secondItem="uFv-ct-x1o" secondAttribute="bottom" id="quH-Jz-H6G"/>
+                            <constraint firstItem="0NI-mA-akh" firstAttribute="top" secondItem="i7J-VC-3Ib" secondAttribute="top" id="ryW-mQ-kq1"/>
+                            <constraint firstItem="jEp-lw-awY" firstAttribute="bottom" secondItem="dQb-y0-NNr" secondAttribute="bottom" id="sGu-BQ-jIj"/>
+                            <constraint firstItem="jEp-lw-awY" firstAttribute="bottom" secondItem="m6r-xM-Wh2" secondAttribute="bottom" id="urf-fU-rm3"/>
+                            <constraint firstItem="0NI-mA-akh" firstAttribute="leading" secondItem="i7J-VC-3Ib" secondAttribute="trailing" constant="2" id="v9J-hi-w8M"/>
+                        </constraints>
+                    </view>
+                    <extendedEdge key="edgesForExtendedLayout"/>
+                    <nil key="simulatedStatusBarMetrics"/>
+                    <nil key="simulatedTopBarMetrics"/>
+                    <nil key="simulatedBottomBarMetrics"/>
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="320" height="80"/>
+                    <connections>
+                        <outlet property="humidityLabel" destination="dQb-y0-NNr" id="sll-jp-U0g"/>
+                        <outlet property="pressureLabel" destination="oae-Gf-G9u" id="7Vi-LL-CMn"/>
+                        <outlet property="pressureTrend" destination="i7J-VC-3Ib" id="97s-h0-jBB"/>
+                        <outlet property="pressureTrendText" destination="0NI-mA-akh" id="Fmk-Fi-QUo"/>
+                        <outlet property="temperatureLabel" destination="QWd-lC-xDt" id="1xq-9e-OI1"/>
+                        <outlet property="touchView" destination="uFv-ct-x1o" id="jwb-mf-vcV"/>
+                        <outlet property="weatherDescription" destination="m6r-xM-Wh2" id="GU1-dx-9pO"/>
+                        <outlet property="weatherIcon" destination="jEp-lw-awY" id="lGh-0H-Mc7"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vXp-U4-Rya" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="95" y="297"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="humidity_widget" width="128" height="128"/>
+        <image name="sunny" width="200" height="200"/>
+    </resources>
+</document>

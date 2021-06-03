@@ -1,0 +1,57 @@
+
+/* Class = "IBUILabel"; text = "2. Scroll down and add new widget."; ObjectID = "2GK-sj-StJ"; */
+"2GK-sj-StJ.text" = "2. Scorri fino in fondo per aggiungere \"Weather Barometer\"";
+
+/* Class = "IBUILabel"; text = "Hamburg-Finkenwerder"; ObjectID = "4g1-ev-Dfx"; */
+"4g1-ev-Dfx.text" = "Hamburg-Finkenwerder";
+
+/* Class = "IBUILabel"; text = "Sunny"; ObjectID = "7Xh-z0-ZXN"; */
+"7Xh-z0-ZXN.text" = "Sunny";
+
+/* Class = "IBUILabel"; text = "27°"; ObjectID = "9kz-gy-6YA"; */
+"9kz-gy-6YA.text" = "27°";
+
+/* Class = "IBUILabel"; text = ""; ObjectID = "M1f-eM-JHD"; */
+"M1f-eM-JHD.text" = "";
+
+/* Class = "IBUILabel"; text = "using your iPhone 6 barometer sensor!"; ObjectID = "MkH-t5-URv"; */
+"MkH-t5-URv.text" = "(con il tuo iPhone)";
+
+/* Class = "IBUILabel"; text = "1013,4"; ObjectID = "ObB-u2-YTD"; */
+"ObB-u2-YTD.text" = "1013,4";
+
+/* Class = "IBUILabel"; text = "1. Simply slide down your screen from the top."; ObjectID = "UdW-Kk-7gS"; */
+"UdW-Kk-7gS.text" = "1. Per i widget, scorri lo schermo con le dita dall'alto verso il basso.";
+
+/* Class = "IBUILabel"; text = ""; ObjectID = "Vfn-lx-jkl"; */
+"Vfn-lx-jkl.text" = "";
+
+/* Class = "IBUILabel"; text = "Mon."; ObjectID = "Xtd-hQ-OrK"; */
+"Xtd-hQ-OrK.text" = "Mon.";
+
+/* Class = "IBUILabel"; text = "☂"; ObjectID = "Z9D-1d-eQw"; */
+"Z9D-1d-eQw.text" = "☂";
+
+/* Class = "IBUILabel"; text = "12 °C"; ObjectID = "ZfW-C5-vt4"; */
+"ZfW-C5-vt4.text" = "12 °C";
+
+/* Class = "IBUILabel"; text = "get exact and real-time weather prediction with barometric pressure"; ObjectID = "bov-Vo-epK"; */
+"bov-Vo-epK.text" = "Barometro per previsioni meteo in tempo reale!";
+
+/* Class = "IBUILabel"; text = "10 %"; ObjectID = "i05-x6-XNI"; */
+"i05-x6-XNI.text" = "10 %";
+
+/* Class = "IBUILabel"; text = "Weather Barometer"; ObjectID = "kxJ-JF-ZAg"; */
+"kxJ-JF-ZAg.text" = "Meteo Barometro";
+
+/* Class = "IBUILabel"; text = "Install Lockscreen Widget"; ObjectID = "qT2-VA-BZR"; */
+"qT2-VA-BZR.text" = "Installare il widget per lock screen";
+
+/* Class = "IBUILabel"; text = "3. Enjoy!"; ObjectID = "wkJ-pm-DNS"; */
+"wkJ-pm-DNS.text" = "3. Buon divertimento!";
+
+/* Class = "IBUILabel"; text = "10°"; ObjectID = "xGK-iw-1IC"; */
+"xGK-iw-1IC.text" = "10°";
+
+/* Class = "IBUIButton"; normalTitle = "Got it"; ObjectID = "ymu-3U-c8C"; */
+"ymu-3U-c8C.normalTitle" = "Okay!";

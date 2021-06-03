@@ -1,0 +1,298 @@
+ [{
+  "iconName": "Snow Shower",
+  "iconCode": "\uf01b"
+  }, {
+  "iconName": "Sunny / Windy",
+  "iconCode": "\uf00d"
+  }, {
+  "iconName": "Rain and Snow",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Widespread Dust",
+  "iconCode": "\uf012"
+  }, {
+  "iconName": "Light Snow",
+  "iconCode": "\uf01b"
+  }, {
+  "iconName": "Haze / Windy",
+  "iconCode": "\uf011"
+  }, {
+  "iconName": "Smoke",
+  "iconCode": "\uf014"
+  }, {
+  "iconName": "Rain / Freezing Rain",
+  "iconCode": "\uf018"
+  }, {
+  "iconName": "Partly Cloudy",
+  "iconCode": "\uf002"
+  }, {
+  "iconName": "Thunder",
+  "iconCode": "\uf01e"
+  }, {
+  "iconName": "Heavy Rain",
+  "iconCode": "\uf019"
+  }, {
+  "iconName": "Partly Cloudy / Windy",
+  "iconCode": "\uf001"
+  }, {
+  "iconName": "Blowing Dust",
+  "iconCode": "\uf011"
+  }, {
+  "iconName": "Rain",
+  "iconCode": "\uf019"
+  }, {
+  "iconName": "Rain Shower / Windy",
+  "iconCode": "\uf018"
+  }, {
+  "iconName": "Mist",
+  "iconCode": "\uf014"
+  }, {
+  "iconName": "Light Rain with Thunder",
+  "iconCode": "\uf01d"
+  }, {
+  "iconName": "Mostly Cloudy / Windy",
+  "iconCode": "\uf012"
+  }, {
+  "iconName": "Light Drizzle",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Fair / Windy",
+  "iconCode": "\uf00d"
+  }, {
+  "iconName": "Fog",
+  "iconCode": "\uf014"
+  }, {
+  "iconName": "Cloudy / Windy",
+  "iconCode": "\uf012"
+  }, {
+  "iconName": "Fair",
+  "iconCode": "\uf00d"
+  }, {
+  "iconName": "T-Storm",
+  "iconCode": "\uf01e"
+  }, {
+  "iconName": "Showers in the Vicinity",
+  "iconCode": "\uf01a"
+  }, {
+  "iconName": "Clear",
+  "iconCode": "\uf00d"
+  }, {
+  "iconName": "Rain Shower",
+  "iconCode": "\uf019"
+  }, {
+  "iconName": "Mostly Cloudy",
+  "iconCode": "\uf013"
+  }, {
+  "iconName": "Sunny",
+  "iconCode": "\uf00d"
+  }, {
+  "iconName": "Drizzle",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Haze",
+  "iconCode": "\uf014"
+  }, {
+  "iconName": "Light Rain Shower",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Light Rain",
+  "iconCode": "\uf01c"
+  }, {
+  "iconName": "Rain / Windy",
+  "iconCode": "\uf018"
+  }, {
+  "iconName": "Light Rain / Windy",
+  "iconCode": "\uf018"
+  }, {
+  "iconName": "Cloudy",
+  "iconCode": "\uf013"
+  }, {
+  "iconName": "Ice to Snow",
+  "iconCode": "\uf01b"
+  }, {
+  "iconName": "Rain / Snow Early",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Rain / Snow Showers Late",
+  "iconCode": "\uf01a"
+  }, {
+  "iconName": "Wintry Mix Late",
+  "iconCode": "\uf01b"
+  }, {
+  "iconName": "Rain / Snow Showers / Wind",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Thundershowers",
+  "iconCode": "\uf01d"
+  }, {
+  "iconName": "Fog Late",
+  "iconCode": "\uf014"
+  }, {
+  "iconName": "Snow Showers Late",
+  "iconCode": "\uf013"
+  }, {
+  "iconName": "Rain / Wind Late",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Light Rain Early",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Mostly Cloudy / Wind",
+  "iconCode": "\uf013"
+  }, {
+  "iconName": "Foggy",
+  "iconCode": "\uf014"
+  }, {
+  "iconName": "Cloudy / Wind",
+  "iconCode": "\uf013"
+  }, {
+  "iconName": "Freezing Rain / Wind",
+  "iconCode": "\uf018"
+  }, {
+  "iconName": "Rain / Snow Showers Early",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Light Rain / Wind",
+  "iconCode": "\uf01a"
+  }, {
+  "iconName": "Light Snow / Wind Late",
+  "iconCode": "\uf01b"
+  }, {
+  "iconName": "Snow Showers Early",
+  "iconCode": "\uf01b"
+  }, {
+  "iconName": "Snow",
+  "iconCode": "\uf01b"
+  }, {
+  "iconName": "Light Rain / Wind Late",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Snow Showers / Wind",
+  "iconCode": "\uf01a"
+  }, {
+  "iconName": "Rain / Snow Showers / Wind Early",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Showers / Wind Late",
+  "iconCode": "\uf01a"
+  }, {
+  "iconName": "Heavy Thunderstorms",
+  "iconCode": "\uf01d"
+  }, {
+  "iconName": "Thunderstorms / Wind Early",
+  "iconCode": "\uf01d"
+  }, {
+  "iconName": "Showers Late",
+  "iconCode": "\uf013"
+  }, {
+  "iconName": "Thunderstorms",
+  "iconCode": "\uf01d"
+  }, {
+  "iconName": "Snow / Wind",
+  "iconCode": "\uf01b"
+  }, {
+  "iconName": "Rain / Snow",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Rain to Snow",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Few Showers / Wind",
+  "iconCode": "\uf013"
+  }, {
+  "iconName": "Clouds Early / Clearing Late",
+  "iconCode": "\uf013"
+  }, {
+  "iconName": "Partly Cloudy / Wind",
+  "iconCode": "\uf012"
+  }, {
+  "iconName": "Rain / Wind",
+  "iconCode": "\uf018"
+  }, {
+  "iconName": "Rain Late",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Rain Early",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Thunderstorms Early",
+  "iconCode": "\uf01d"
+  }, {
+  "iconName": "Fog Early / Clouds Late",
+  "iconCode": "\uf014"
+  }, {
+  "iconName": "Thunderstorms Late",
+  "iconCode": "\uf01d"
+  }, {
+  "iconName": "Snow to Wintry Mix",
+  "iconCode": "\uf01b"
+  }, {
+  "iconName": "Thunderstorms / Wind Late",
+  "iconCode": "\uf01d"
+  }, {
+  "iconName": "Showers / Wind",
+  "iconCode": "\uf018"
+  }, {
+  "iconName": "Showers / Wind Early",
+  "iconCode": "\uf018"
+  }, {
+  "iconName": "Ice / Wind Early",
+  "iconCode": "\uf01b"
+  }, {
+  "iconName": "Isolated Thunderstorms",
+  "iconCode": "\uf01d"
+  }, {
+  "iconName": "Clear / Wind",
+  "iconCode": "\uf00d"
+  }, {
+  "iconName": "Light Rain Late",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Cloudy Early / Clearing Late / Wind",
+  "iconCode": "\uf013"
+  }, {
+  "iconName": "Snow Showers / Wind Early",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Scattered Snow Showers / Wind",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Showers Early",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Thunderstorms / Wind",
+  "iconCode": "\uf01d"
+  }, {
+  "iconName": "Showers",
+  "iconCode": "\uf013"
+  }, {
+  "iconName": "Isolated Thunderstorms / Wind",
+  "iconCode": "\uf01d"
+  }, {
+  "iconName": "Snow Showers",
+  "iconCode": "\uf013"
+  }, {
+  "iconName": "Scattered Thunderstorms",
+  "iconCode": "\uf01d"
+  }, {
+  "iconName": "Scattered Thunderstorms / Wind",
+  "iconCode": "\uf01d"
+  }, {
+  "iconName": "Snow to Ice / Wind",
+  "iconCode": "\uf01b"
+  }, {
+  "iconName": "Rain / Snow / Wind",
+  "iconCode": "\uf017"
+  }, {
+  "iconName": "Snow Showers / Wind Late",
+  "iconCode": "\uf013"
+  }, {
+  "iconName": "Mostly Clear",
+  "iconCode": "\uf00d"
+  }, {
+  "iconName": "Rain / Thunder",
+  "iconCode": "\uf01d"
+  }, {
+  "iconName": "Cloudy with rain",
+  "iconCode": "\uf017"
+  }]

@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  BarometerPro
+
+  Created by Andrew Teil on 30/11/14.
+  Copyright (c) 2014 estivo. All rights reserved.
+*/
+
+
+"CFBundleDisplayName" = "WeatherBaro";
+"NSLocationWhenInUseUsageDescription" = "Indispensable pour les prévisions météo du lieu où tu te situes!";

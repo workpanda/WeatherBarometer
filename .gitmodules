@@ -1,0 +1,3 @@
+[submodule "BarometerArtworks/weather-icons"]
+	path = BarometerArtworks/weather-icons
+	url = git@github.com:erikflowers/weather-icons.git
